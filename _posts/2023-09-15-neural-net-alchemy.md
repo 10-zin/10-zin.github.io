@@ -1,11 +1,11 @@
 # Analogies for Neural Nets: Softmax, Crazy Gradients, and Neuron Shenanigans!
 
-Hey there, brave explorer! 🚀 Ever felt like deep learning is kinda like deciphering alien tech while blindfolded? Let’s rip off that blindfold and poke around this crazy machine!
+To all the neural net nerds, I came up with some quirky analogies for buzzy neural net terms. Have a look 🚀
 
 ---
 
 ## **Softmax: Not Just Fancy Math Jargon**
-Okay, picture your buddy throwing darts after a few drinks. Hilarious? Yep. Accurate? Nope. Without Softmax, that's our model – tossing darts all over, sometimes hitting ridiculous scores like `2384423`.
+Okay, picture your buddy throwing darts after a few drinks. Hilarious? Yep. Accurate? Nope. Without Softmax, that's our model – tossing darts all over, sometimes hitting ridiculous scores like `2384423` when it shoule be a `1` or a `0`.
 
 **🧐 Observation**: 
 Big numbers might be cool in a jackpot, but in predictions? Not so much. Our model is basically shouting numbers hoping something sticks.
