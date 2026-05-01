@@ -1,8 +1,13 @@
-Hello and welcome to my home in the world wide web. 
+---
+layout: page
+title: 10zin
+---
 
-My official name is Tenzin Singhay Bhotia, but you can call me Tenzin. I usually go by the pseudonym 10zin on the net.
+Hi, I'm Tenzin (a.k.a. 10zin). I build, train, and serve neural nets.
 
-I wanted to create this place, to soon start posting blogs, that are basicallly a some-what organized dump of ideas and questions I am dealing with daily.
+This is where I'll dump some thoughts.
 
-You can refer to [about](about.md) section for now to know more about me!
+## Articles
 
+- [Craft is the realest](/2026/04/30/craft-is-the-realest.html)
+- [test-article](/2026/04/30/test-article.html)
